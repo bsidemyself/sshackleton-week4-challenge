@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Javascript Quiz</title>
+    
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+      <header>
+        <button id="start-timer">Click to Start Quiz</button>
+        <h4 class="time-remain">Time Left: 60<span id="timer"></span></h4>
+      </header>
+
+    <div class="question-area"><h2 id="question-line">This is a quick quiz to test Javascript knowledge. Click the button above to begin.</h2></div>
+
+    <div id="answer-area">
+        <ol>
+            <li><button class="ansButton" id="answer-button1">strings</button></li>
+            <li><button class="ansButton" id="answer-button2">booleans</button></li>
+            <li><button class="ansButton" id="answer-button3">alerts</button></li>
+            <li><button class="ansButton" id="answer-button4">numbers</button></li>
+        </ol>
+    </div>
+    <div id="results-area"><button id="answer-result"><a href="results.html">Show Results</a></button></div>
+    <script src="script.js"></script>
+  </body>
+</html>
