@@ -6,7 +6,9 @@ I found this challenge very difficult but I enjoyed trying to figure it out on m
 ## Criteria Met (and not)
 The quiz I made has a working timer and fills in the current question and answer in their spots, and moves to the next when a choice is clicked, but I'm not sure if my scoring mechanic works correctly, and I did not get to the results and saving the initials phase.  This challenge is not where I'd like it to be but I feel good about the work I did complete and what I learned along the way.
 ## Link to Deployed Application
+https://bsidemyself.github.io/sshackleton-week4-challenge/
 ## Screenshot
+I finally figured out how to put a screenshot in my README (that's something, right?)
 ![Alt text](assets/week4-screenshot.PNG)
 ## References
 I looked at stackOverflow so much I might have put too many ideas together with some of my functions!
